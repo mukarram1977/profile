@@ -1,0 +1,47 @@
+.body{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 120px;
+    left: 200px;
+}
+#img{
+    width: 100%;
+}
+#hello{
+    text-shadow: 1px 1px 2px black, 0 0 5px rgb(123, 123, 240), 0 0 35px rgb(143, 143, 238);
+    font-family: "Playfair Display", serif;
+    font-size: 50px;
+}
+#name{
+    text-shadow: 1px 1px 2px black, 0 0 5px rgb(123, 123, 240), 0 0 35px rgb(143, 143, 238);
+    font-family: "Matemasie", sans-serif;
+    font-size: 50px;
+
+}
+#name-1{
+    text-shadow: 1px 1px 2px black, 0 0 5px rgb(123, 123, 240), 0 0 35px rgb(143, 143, 238);
+    font-family: "Matemasie", sans-serif;
+    
+
+}
+#skill{
+    text-shadow: 2px 2px 4px #dddbdb;
+}
+
+.socials i{
+    font-size: 30px;
+    padding: 0 10px;
+    color: blue;
+    transform: translate(1.5);
+    
+}
+#footer-text{
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+#button{
+    background: linear-gradient(to right,#ff105f,#ffad06);
+}
